@@ -44,7 +44,7 @@ The RAG pipeline was evaluated to ensure the generated answers are both accurate
     ├── evaluate_rag_pipeline.py
     ├── llamaindex_rag_demo_2.py
     └── process_esg_dataset.py
-
+```
 ### How to Run This Project
 To set up and run this project locally, follow these steps:
 
