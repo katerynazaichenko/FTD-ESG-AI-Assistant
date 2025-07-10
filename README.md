@@ -30,20 +30,19 @@ The RAG pipeline was evaluated to ensure the generated answers are both accurate
 
 ### Repository Structure
 .
-├── .gitignore
-├── LICENSE
-├── README.md
-├── requirements.txt
-├── data/
-│ └── raw/
-│ └── esg_reports.csv
-├── reports/
-│ └── figures/
-└── src/
-├── evaluate_rag_pipeline.py
-├── llamaindex_rag_demo_2.py
-└── process_esg_dataset.py
-
+|-- .gitignore
+|-- LICENSE
+|-- README.md
+|-- requirements.txt
+|-- data/
+|   `-- raw/
+|       `-- esg_reports.csv
+|-- reports/
+|   `-- figures/
+`-- src/
+    |-- evaluate_rag_pipeline.py
+    |-- llamaindex_rag_demo_2.py
+    `-- process_esg_dataset.py
 
 ### How to Run This Project
 To set up and run this project locally, follow these steps:
@@ -86,5 +85,5 @@ To set up and run this project locally, follow these steps:
 
 ### Authors
 *   Jessie Cameron
-*   Sarah Carpentier
+*   Gabriela Moravcikova
 *   Kateryna Zaichenko
