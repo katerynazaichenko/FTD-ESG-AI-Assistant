@@ -1,5 +1,6 @@
 ### FTD-ESG-AI-Assistant
-**Python 3.9+** **License: MIT**
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This repository contains the project for an advanced AI assistant capable of performing accurate question-answering on dense Environmental, Social, and Governance (ESG) reports. The solution leverages a custom-built Retrieval-Augmented Generation (RAG) pipeline to deliver precise, context-aware answers without hallucination.
 
