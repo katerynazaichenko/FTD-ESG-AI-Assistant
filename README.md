@@ -29,20 +29,21 @@ The RAG pipeline was evaluated to ensure the generated answers are both accurate
 | Context Recall      | 0.49  |
 
 ### Repository Structure
-.
-|-- .gitignore
-|-- LICENSE
-|-- README.md
-|-- requirements.txt
-|-- data/
-|   `-- raw/
-|       `-- esg_reports.csv
-|-- reports/
-|   `-- figures/
-`-- src/
-    |-- evaluate_rag_pipeline.py
-    |-- llamaindex_rag_demo_2.py
-    `-- process_esg_dataset.py
+```bash
+.  
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── data
+│   └── raw
+│       └── esg_reports.csv
+├── reports
+│   └── figures
+└── src
+    ├── evaluate_rag_pipeline.py
+    ├── llamaindex_rag_demo_2.py
+    └── process_esg_dataset.py
 
 ### How to Run This Project
 To set up and run this project locally, follow these steps:
